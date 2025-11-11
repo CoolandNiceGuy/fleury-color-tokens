@@ -17,7 +17,7 @@ Design tokens inspired by https://github.com/ShamsParvezArka/fleury-theme.el
 - ![#edb211](https://placehold.co/15x15/edb211/edb211.png) `sunflower-yellow` - `#edb211`
 - ![#de451f](https://placehold.co/15x15/de451f/de451f.png) `burnt-orange` - `#de451f`
 - ![#2895c7](https://placehold.co/15x15/2895c7/2895c7.png) `sky-blue` - `#2895c7`
-- ![#2f2f38](https://placehold.co/15x15/2f2f38/2f2f38.png) `sky-blue -li`te: `#2f2f38`
+- ![#2f2f38](https://placehold.co/15x15/2f2f38/2f2f38.png) `sky-blue-lite: `#2f2f38`
 - ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) `bright-red` - `#ff0000`
 - ![#66bc11](https://placehold.co/15x15/66bc11/66bc11.png) `fresh-green` - `#66bc11`
 - ![#003939](https://placehold.co/15x15/003939/003939.png) `lime-green` - `#003939`
