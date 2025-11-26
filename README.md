@@ -3,7 +3,7 @@ Design tokens inspired by https://github.com/ShamsParvezArka/fleury-theme.el
 
 - ![#020202](https://placehold.co/15x15/020202/020202.png) `rich-black` - `#020202`
 - ![#b99468](https://placehold.co/15x15/b99468/b99468.png) `light-bronze` - `#b99468`
-- ![#21212](https://placehold.co/15x15/21212/21212.png) `charcoal-gray` - `#21212`
+- ![#21212](https://placehold.co/15x15/21212/21212.png) `charcoal-gray` - `#212121`
 - ![#1e1e1e](https://placehold.co/15x15/1e1e1e/1e1e1e.png) `charcoal-gray-lite` - `#1e1e1e`
 - ![#303040](https://placehold.co/15x15/303040/303040.png) `gunmetal-blue` - `#303040`
 - ![#222425](https://placehold.co/15x15/222425/222425.png) `dark-slate` - `#222425`
@@ -33,7 +33,7 @@ Design tokens inspired by https://github.com/ShamsParvezArka/fleury-theme.el
 ```
   --color-rich-black: #020202;
   --color-light-bronze: #b99468;
-  --color-charcoal-gray: #21212;
+  --color-charcoal-gray: #212121;
   --color-charcoal-gray-lite: : #1e1e1e;
   --color-gunmetal-blue: #303040;
   --color-dark-slate: #222425;
